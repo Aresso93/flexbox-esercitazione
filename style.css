@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    margin:0px;
+
+}
+
+body{
+    background-color: #004494;
+    
+    
+}
+
+.main-box{
+    border: 3px solid yellow;
+box-sizing: border-box;
+height: 100%;
+}
+
+*{
+    box-sizing: border-box;
+}
