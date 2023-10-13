@@ -28,8 +28,14 @@ body {
     flex-direction: row;
 }
 
+.bordered{
+    border-top: solid 1px orange;
+    border-bottom: solid 1px orange;
+    padding: 10px;
+}
+
 .horizontal{
-    flex-direction: column;
+    flex-direction: row;
 }
 
 ul {
